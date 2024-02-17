@@ -1,0 +1,13 @@
+GET http://localhost:3000/transactions?selectedMonth=03&searchText=3
+###
+
+GET http://localhost:3000/statistics?selectedMonth=09
+###
+
+GET http://localhost:3000/bar-chart?selectedMonth=11
+###
+
+GET http://localhost:3000/pie-chart?selectedMonth=06
+
+
+
